@@ -32,5 +32,5 @@ Focused on the digital transformation of agriculture and adopting international 
 ---
 
 ### 📫 Contact & Activity
-- **LinkedIn:** [Insert Link]
+- **LinkedIn:** [https://www.linkedin.com/in/david-fran%C3%A7ois-a097b31a9/]
 - **Status:** Currently executing field-testing phase of the Bio-Estate scanner.
