@@ -1,36 +1,37 @@
-# France | Bio-IT & Agricultural Operations 🥭🧬
+# David François | Bio-IT Architect & Bioinformatics Engineer 🥭🧬
 
-### Specialist in Commercial Estate Management & Precision Agriculture
+### Engineering Trust in Biological Data Pipelines
 
-I bridge the gap between high-scale agricultural operations and computational science. I develop containerized software solutions to analyze pathogen resilience and optimize estate-wide management strategies.
-
----
-
-### 🛠 Technical Expertise
-- **Bio-IT & Genomics:** Analyzing pathogen DNA (Anthracnose) for resilience profiling.
-- **Infrastructure:** Docker (Containerization) & Git-based version control.
-- **Data Science:** Python-driven analytics and Streamlit dashboard development.
-- **Operations:** Commercial Estate management and precision spraying protocols.
+I specialize in the intersection of **Genomic Integrity** and **Distributed Systems**. My work focuses on building immutable ledgers for agricultural data, containerized bio-informatics pipelines, and low-friction field-to-cloud gateways.
 
 ---
 
-### 🚀 Key Portfolio Projects
-
-#### [Bio-Estate: Pathogen Resilience Scanner](https://github.com/francefarms/bio-estate)
-A full-stack Bio-IT tool designed to compare host/pathogen genomic stability.
-- **Focus:** DNA GC-content analysis to inform commercial spraying cycles.
-- **Deployment:** Fully containerized via Docker for cross-platform research use.
-
-#### [Plant Assessor App](https://github.com/francefarms/plant-assessor-app)
-Operational tool for real-time health assessment and asset tracking across agricultural estates.
+### 🛠 Technical Ecosystem
+- **Bio-Informatics:** DNA sequence analysis (GC-Content), Pathogen Resilience profiling, and Genomic Notarization.
+- **Data Engineering:** Designing secure data pipelines using Python, SHA-256 Hashing, and Twilio API.
+- **DevOps & Cloud:** Docker (Containerization), GitHub Actions (CI/CD), and Streamlit Cloud deployment.
+- **Full-Stack Bio-IT:** Bridging "Last Mile" field data (WhatsApp/Twilio) with enterprise-grade research dashboards.
 
 ---
 
-### 🌍 Global Vision
-Focused on the digital transformation of agriculture and adopting international standards for Bio-IT. I am actively developing tools that align local estate management with global precision-ag technologies.
+### 🚀 Featured Engineering Projects
+
+#### [Bio-Estate: The Trilogy of Trust](https://github.com/francefarms/bio-estate)
+A commercial-grade Bio-IT platform for secured agricultural asset management.
+- **The Ledger:** Built a cryptographic SHA-256 hashing engine to ensure DNA sequence immutability.
+- **The Gateway:** Integrated Twilio API to allow real-time WhatsApp-to-Cloud data entry for field scientists.
+- **The Analysis:** Automated GC-content diagnostics for rapid pathogen screening.
+
+#### [France Farms Infrastructure](https://github.com/francefarms/francefarms.github.io)
+The public-facing portal for precision agriculture protocols and Bio-IT integration.
 
 ---
 
-### 📫 Contact & Activity
-- **LinkedIn:** [https://www.linkedin.com/in/david-fran%C3%A7ois-a097b31a9/]
-- **Status:** Currently executing field-testing phase of the Bio-Estate scanner.
+### 📈 Strategic Focus
+I am currently scaling **Bio-Estate** to move from "File-Based" logs to **Cloud Data Warehousing**, aligning with international standards for machine-learning-ready (ML-ready) biological datasets.
+
+---
+
+### 📡 Connectivity
+- **LinkedIn:** [David François](https://www.linkedin.com/in/david-fran%C3%A7ois-a097b31a9/)
+- **Live Node:** [Bio-Estate Dashboard (Streamlit Cloud)](https://bio-estate-vqgktkp78gh8zokgf9b3su.streamlit.app/)
