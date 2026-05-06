@@ -1,23 +1,40 @@
-# 🥭 France Farms: Sovereign Agri-Tech Infrastructure
+Here is the updated infrastructure, architecture, and tech stack reflecting your current focus on Bio-IT integration, blockchain and SHA-256 data validation pipelines, and local estate operations.
+🥭 France Farms: Bio-IT Sovereign Agriculture
+The Vision
 
-### The Vision
-Securing the integrity of Caribbean agricultural exports through digital fingerprinting and decentralized data storage.
+Securing the integrity of agricultural supply chains and sub-surface estate operations through decentralized data validation, cryptographic hashing, and sovereign computing infrastructure.
+🏗 System Architecture
 
-### 🏗 System Architecture
-This project utilizes a decoupled architecture to ensure data sovereignty and security:
-* **Frontend:** Streamlit-based mobile interface for field data collection.
-* **Network:** Encrypted Mesh VPN (Tailscale) for secure data transit.
-* **Backend API:** FastAPI (Python) gateway with Pydantic validation.
-* **Storage:** PostgreSQL Relational Database hosted on a private Ubuntu server.
+This project utilizes a secure, decoupled, and self-hosted architecture designed for complete operational sovereignty:
 
-### 🛠 Tech Stack
-* **Language:** Python 3.12
-* **Database:** PostgreSQL (Relational)
-* **Frameworks:** FastAPI, SQLAlchemy, Streamlit
-* **Environment:** Linux (Ubuntu 24.04), Virtual Environments (venv)
+    Frontend: Streamlit-based operations dashboard with high-performance visualization.
 
-### 🚀 Key Engineering Milestones
-- [x] Designed relational schema for "Mango Passports" (Hashes + GPS).
-- [x] Implemented RBAC (Role-Based Access Control) for database security.
-- [x] Built a RESTful API to bridge field devices and the private vault.
-- [x] Secured data transmission via a private encrypted tunnel.
+    Network: Encrypted secure data transit via SSH tunnels and private networking.
+
+    Backend API: FastAPI (Python) gateway with data serialization protocols.
+
+    Storage: PostgreSQL Relational Database deployed on private Ubuntu server instances.
+
+    Integrations: Hashing engine utilizing SHA-256 to create unalterable digital seals for data verification.
+
+🛠 Tech Stack
+
+    Languages: Python 3.12, Bash scripting
+
+    Database: PostgreSQL (Relational Database Management System)
+
+    Frameworks: FastAPI, SQLAlchemy, Gunicorn, Nginx
+
+    Infrastructure: Ubuntu Server (24.04 LTS), Git version control
+
+    Security & Validation: Cryptographic Hashing (SHA-256)
+
+🚀 Key Engineering Milestones
+
+    [x] Initialized Françe Farms digital agriculture platform on GitHub.
+
+    [x] Configured Gunicorn instance (france_api.service) with Nginx reverse proxy.
+
+    [x] Deployed API endpoints with response validation using Pydantic.
+
+    [x] Validated system processes via CLI using local curl and database tunneling.
